@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="assets/Stature.png" width="120" alt="Stature Logo"/>
+  <img src="https://raw.githubusercontent.com/ChAbdulWahhab/stature-theme/main/assets/Stature.png" width="120" alt="Stature Logo"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.0.1-4C6B5A?style=flat-square" />
+  <img src="https://img.shields.io/badge/version-0.0.2-4C6B5A?style=flat-square" />
   <img src="https://img.shields.io/badge/VS%20Code-%5E1.60.0-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=7A9E8A" />
   <img src="https://img.shields.io/badge/variants-6-C4A882?style=flat-square" />
   <img src="https://img.shields.io/badge/license-MIT-3D4D45?style=flat-square" />
 </p>
 
-![Stature](assets/Stature-Header%20Image.png)
+![Stature Banner](https://raw.githubusercontent.com/ChAbdulWahhab/stature-theme/main/assets/Stature-Header%20Image.png)
 
 ## Stature
 
@@ -70,7 +70,7 @@ Search `Stature` in VS Code Extensions → Install
 
 **From VSIX:**
 ```bash
-code --install-extension stature-0.0.1.vsix
+code --install-extension stature-0.0.2.vsix
 ```
 
 **Activate:**

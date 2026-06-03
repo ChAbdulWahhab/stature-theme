@@ -2,8 +2,8 @@
   "name": "stature",
   "displayName": "Stature",
   "description": "Stature is a mature, minimal dark theme engineered for focus and long coding sessions. Built on a monochromatic dark green-grey palette — no neon, no noise. Every color earns its place. Syntax is readable without being loud. The interface recedes so your code can breathe. Inspired by quiet forests at night.",
-  "version": "0.0.1",
-  "publisher": "chabdulwahab",
+  "version": "0.0.2",
+  "publisher": "ChAbdulWahab",
   "icon": "assets/Stature.png",
   "engines": {
     "vscode": "^1.60.0"
@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chabdulwahab/stature-theme"
+    "url": "https://github.com/ChAbdulWahhab/stature-theme"
   },
   "bugs": {
-    "url": "https://github.com/chabdulwahab/stature-theme/issues"
+    "url": "https://github.com/ChAbdulWahhab/stature-theme/issues"
   },
-  "homepage": "https://github.com/chabdulwahab/stature-theme",
+  "homepage": "https://github.com/ChAbdulWahhab/stature-theme",
   "license": "MIT",
   "contributes": {
     "themes": [
