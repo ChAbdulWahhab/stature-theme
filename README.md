@@ -1,21 +1,21 @@
-<p align="center">
+<p">
   <img src="assets/Stature.png" width="120" alt="Stature Logo"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/version-0.0.1-4C6B5A?style=flat-square" />
   <img src="https://img.shields.io/badge/VS%20Code-%5E1.60.0-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=7A9E8A" />
   <img src="https://img.shields.io/badge/variants-6-C4A882?style=flat-square" />
   <img src="https://img.shields.io/badge/license-MIT-3D4D45?style=flat-square" />
 </p>
 
-![Stature](assets/Stature-Header%20Image.png)
-
 ## Stature
 
 A dark VS Code theme built for long sessions. No neon. No decoration for its own sake. The interface recedes so your code can breathe.
 
 Stature is built on a monochromatic dark green-grey palette — the color of old forests and quiet terminals. Every color was chosen with one question: does this earn its place?
+
+![Stature](assets/Stature-Header%20Image.png)
 
 ## Variants
 
