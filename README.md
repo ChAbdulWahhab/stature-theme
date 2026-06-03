@@ -1,5 +1,3 @@
-![Stature](assets/Stature-Header%20Image.png)
-
 <p align="center">
   <img src="assets/Stature.png" width="120" alt="Stature Logo"/>
 </p>
@@ -10,6 +8,8 @@
   <img src="https://img.shields.io/badge/variants-6-C4A882?style=flat-square" />
   <img src="https://img.shields.io/badge/license-MIT-3D4D45?style=flat-square" />
 </p>
+
+![Stature](assets/Stature-Header%20Image.png)
 
 ## Stature
 
