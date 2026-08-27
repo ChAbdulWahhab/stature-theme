@@ -1,8 +1,8 @@
 {
   "name": "stature",
-  "displayName": "Stature",
+  "displayName": "Stature Theme",
   "description": "Stature is a mature, minimal dark theme engineered for focus and long coding sessions. Built on a monochromatic dark green-grey palette — no neon, no noise. Every color earns its place. Syntax is readable without being loud. The interface recedes so your code can breathe. Inspired by quiet forests at night.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "ChAbdulWahab",
   "icon": "assets/Stature.png",
   "engines": {
@@ -23,32 +23,32 @@
   "contributes": {
     "themes": [
       {
-        "label": "Stature",
+        "label": "Stature Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/stature-color-theme.json"
       },
       {
-        "label": "Stature Italic",
+        "label": "Stature Theme Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/stature-italic-color-theme.json"
       },
       {
-        "label": "Stature Dusk",
+        "label": "Stature Theme Dusk",
         "uiTheme": "vs-dark",
         "path": "./themes/stature-dusk-color-theme.json"
       },
       {
-        "label": "Stature Warm",
+        "label": "Stature Theme Warm",
         "uiTheme": "vs-dark",
         "path": "./themes/stature-warm-color-theme.json"
       },
       {
-        "label": "Stature High Contrast",
+        "label": "Stature Theme High Contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/stature-hc-color-theme.json"
       },
       {
-        "label": "Stature Void",
+        "label": "Stature Theme Void",
         "uiTheme": "vs-dark",
         "path": "./themes/stature-void-color-theme.json"
       }
